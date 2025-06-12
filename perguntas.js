@@ -6,25 +6,25 @@ criaCartao(
 
 criaCartao(
 'HTML',
-'Qual é a função da tag &lt;a&gt; no HTML?',
-'A tag <a> é usada para criar links (âncoras) que direcionam para outras páginas ou seções.'
+'Qual é a função da tag &lt; a &gt; no HTML?',
+'A tag &lt;a&gt; é usada para criar links (âncoras) que direcionam para outras páginas ou seções.'
 )
 
 criaCartao(
 'HTML',
-'Para que serve a tag <img>?',
-'A tag <img> serve para incorporar imagens em uma página HTML.'
+'Para que serve a tag &lt;img&gt;?',
+'A tag &lt;img&gt; serve para incorporar imagens em uma página HTML.'
 )
 
 criaCartao(
 'HTML',
 'Qual a estrutura básica de um documento HTML?',
-'<!DOCTYPE html>, <html>, <head>, <title> e <body>.'
+'&lt;!DOCTYPE html&gt;, &lt;html&gt;, &lt;head&gt;, &lt;title&gt; e &lt;body&gt;.'
 )
 
 criaCartao(
 'HTML',
-'O que faz o atributo "alt" na tag <img>?',
+'O que faz o atributo "alt" na tag &lt;img&gt;?',
 'Fornece um texto alternativo para a imagem, útil para acessibilidade e quando a imagem não carrega.'
 )
 
