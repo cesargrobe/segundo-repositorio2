@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
 'HTML',
-'Qual é a função da tag <a> no HTML?',
+'Qual é a função da tag &lt;a&gt; no HTML?',
 'A tag <a> é usada para criar links (âncoras) que direcionam para outras páginas ou seções.'
 )
 
